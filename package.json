@@ -19,7 +19,9 @@
   "homepage": "https://github.com/Everton543/cse-341_week02#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
